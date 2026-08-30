@@ -1,0 +1,29 @@
+# --- 编译生成的文件（不需要上传） ---
+*.o
+*.obj
+*.exe
+*.out
+*.hex
+*.bin
+*.map
+*.lst
+*.sfr
+*.dep
+*.d
+
+# --- IDE 临时文件和配置（不需要上传） ---
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# --- CubeIDE/Keil/IAR 特定文件（可选） ---
+Debug/
+Release/
+*.launch
+*.cproject
+*.project
+.settings/
+*.ld
