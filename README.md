@@ -11,7 +11,8 @@ This repository focuses **exclusively on HTML** (structure and semantic tags).
 CSS (styling) and JavaScript (interactivity) practices will be kept in separate repositories.
 
 ## 学习进度 | Progress
-- **练习 1**：HTML 基础标签与 Hello World (Basic tags and Hello World)
-- **练习 2**：HTML 文档基础骨架结构 (Basic HTML document structure)
-- **练习 3**：HTML5 文档结构与文本格式化标签 （HTML5 Document Structure and Text Formatting Tags）
-- **练习 4**：HTML 文本格式化标签对比（HTML Text Formatting Tags Comparison）
+- **练习 1**：HTML 基础标签与 Hello World | Basic tags and Hello World
+- **练习 2**：HTML 文档基础骨架结构 | Basic HTML document structure
+- **练习 3**：HTML5 文档结构与文本格式化标签 | HTML5 Document Structure and Text Formatting Tags
+- **练习 4**：HTML 文本格式化标签对比 | HTML Text Formatting Tags Comparison
+- **练习 5**：HTML 图片标签 | Practice 5: HTML Image Tag
