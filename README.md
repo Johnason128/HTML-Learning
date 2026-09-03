@@ -16,3 +16,4 @@ CSS (styling) and JavaScript (interactivity) practices will be kept in separate 
 - **练习 3**：HTML5 文档结构与文本格式化标签 | HTML5 Document Structure and Text Formatting Tags
 - **练习 4**：HTML 文本格式化标签对比 | HTML Text Formatting Tags Comparison
 - **练习 5**：HTML 图片标签 | Practice 5: HTML Image Tag
+- **练习 6**：HTML 图片标签与替代文本 | Practice 6: HTML Image Tag and Alternative Text
